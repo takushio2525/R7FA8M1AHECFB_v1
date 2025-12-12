@@ -1,4 +1,4 @@
-23896788762954912
+23919739500369847
 00_myFoot_7.0Lib
 5051102296
 5051102296-1
@@ -35,12 +35,47 @@ AQM0802A-RN-GBW
 9
 9
 00_myFoot_7.0Lib
+B03BPASKLFSN
+B03B-PASK(LF)(SN)-3
+Connector
+0
+3
+3
+00_myFoot_7.0Lib
+B04BPASKLFSN
+B04B-PASK(LF)(SN)-2
+Connector
+0
+4
+4
+00_myFoot_7.0Lib
+B05BPASK1
+B05B-PASK-1-2
+Connector
+0
+5
+5
+00_myFoot_7.0Lib
+B06BPASK1LFSN
+B06B-PASK-1 (LF) (SN)
+Connector
+0
+6
+6
+00_myFoot_7.0Lib
 BT2.0
 
 
 0
 2
 2
+00_myFoot_7.0Lib
+CONN_3220-10-0100-00_CNC
+
+3220-10-0100-00 
+0
+10
+10
 00_myFoot_7.0Lib
 GCT_USB4105-GF-A-120
 
@@ -18948,6 +18983,62 @@ connector JST NV side entry
 0
 4
 4
+Connector_JST_new
+JST_PAD_S10B-PADSS-1_2x05_P2.00mm_Horizontal
+JST PAD Series 2x05P side entry (http://www.jst-mfg.com/product/pdf/eng/ePAD.pdf)
+JST PAD S10B-PADSS-1 side entry
+0
+10
+10
+Connector_JST_new
+JST_PA_S03B-PASK-2_1x03_P2.00mm_Horizontal
+JST PHA series connector, S03B-PASK-2 (http://www.jst-mfg.com/product/pdf/eng/ePA-F.pdf)
+connector JST PA side entry S03B-PASK-2
+0
+3
+3
+Connector_JST_new
+JST_PA_S04B-PASK-2_1x04_P2.00mm_Horizontal
+JST PA series connector, S04B-PASK-2 (http://www.jst-mfg.com/product/pdf/eng/ePA-F.pdf)
+connector JST PA side entry S04B-PASK-2
+0
+4
+4
+Connector_JST_new
+JST_PA_S05B-PASK-2_1x05_P2.00mm_Horizontal
+JST PA series connector, S05B-PASK-2 (http://www.jst-mfg.com/product/pdf/eng/ePA-F.pdf)
+connector JST PA side entry S05B-PASK-2
+0
+5
+5
+Connector_JST_new
+JST_PA_S06B-PASK-2_1x06_P2.00mm_Horizontal
+JST PA series connector, S06B-PASK-2 (http://www.jst-mfg.com/product/pdf/eng/ePA-F.pdf)
+connector JST PA side entry S06B-PASK-2
+0
+6
+6
+Connector_JST_new
+JST_PA_S07B-PASK-2_1x07_P2.00mm_Horizontal
+JST PA series connector, S07B-PASK-2 (http://www.jst-mfg.com/product/pdf/eng/ePA-F.pdf)
+connector JST PA side entry S07B-PASK-2
+0
+7
+7
+Connector_JST_new
+JST_PA_S08B-PASK-2_1x08_P2.00mm_Horizontal
+JST PA series connector, S08B-PASK-2 (http://www.jst-mfg.com/product/pdf/eng/ePA-F.pdf)
+connector JST PA side entry S08B-PASK-2
+0
+8
+8
+Connector_JST_new
+JST_PA_S09B-PASK-2_1x09_P2.00mm_Horizontal
+JST PA series connector, S09B-PASK-2 (http://www.jst-mfg.com/product/pdf/eng/ePA-F.pdf)
+connector JST PA side entry S09B-PASK-2
+0
+9
+9
 Connector_JST_new
 JST_PHD_B8B-PHDSS_2x04_P2.00mm_Vertical
 JST PHD series connector, B8B-PHDSS (http://www.jst-mfg.com/product/pdf/eng/ePHD.pdf), generated with kicad-footprint-generator
